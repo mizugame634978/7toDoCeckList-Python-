@@ -17,7 +17,7 @@ global_task_name = {}
 
 # GUIアプリケーションの作成#############
 root = tk.Tk()
-root.title("本貸し出しシステム")
+root.title("7toDoCheckList")
 root.geometry("400x320")
 #root.resizable(True, True)
 root.resizable(width=False,height=False)#windowのサイズを固定
